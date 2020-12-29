@@ -17,4 +17,4 @@ You are allowed to look at simple implementations online to get an idea of the d
 3. A short video demonstrating the working client/server interactions. (`asciicinema` preferred)
 
 
-*****This problem statement is currently open**
+> *This problem statement is currently open*
